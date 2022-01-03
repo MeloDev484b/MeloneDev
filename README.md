@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MeloDev484b.
+- 👋 Hi, I’m Dylan.
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning C++.
 - 📫 How to reach me: MeloDev484b@gmail.com
