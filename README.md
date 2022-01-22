@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dylan.
-- 👀 I’m interested in software development.
-- 🌱 I’m currently learning C++ and C#
-- 📫 How to reach me: MeloDev484b@gmail.com
+- 👀 Software development student
+- 🌱 C++ and C#
+- 📫 MeloDev484b@gmail.com
 
 <!---
 MeloneDev/MeloneDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
