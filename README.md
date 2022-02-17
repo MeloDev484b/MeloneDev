@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dylan.
 - 👀 Software development student
-- 🌱 C#, C++, Unity & Godot
+- 🌱 C#, C++, Python, Unity & Godot
 - 📫 MeloDev484b@gmail.com
 
 <!---
