@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dylan.
-- 👀 Software development student
+- :books: Software development student
 - 🌱 Currently learning everything I can get my hands on.
 - 📫 MeloDev484b@gmail.com
 
