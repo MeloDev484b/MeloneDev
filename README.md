@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dylan.
 - :books: Software development student
 - 🌱 Currently learning everything I can get my hands on.
-- 📫 MeloDev484b@gmail.com
+- 📫 melodev484b@gmail.com
 
 <!---
 MeloneDev/MeloneDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
