@@ -1,9 +1,15 @@
-- 👋 Hi, I’m Dylan.
-- :books: Software development student
-- 🌱 Currently learning everything I can get my hands on.
-- 📫 melodev484b@gmail.com
+# 👋 I’m Dylan
 
-<!---
-MeloneDev/MeloneDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📚 I am studying software development
+
+### 🏗️ My current project is [Rumrunner](https://github.com/melo484b/rumrunner), using [Godot](https://godotengine.org/)
+
+### 💻 Language Exposure:
+- ☕ Java
+- 🐍 Python
+- 🇨 C++
+- 🇨 C#
+- 🌐 HTML/CSS/JavaScript
+- 🦀 Rust
+
+### 📫 melodev484b@gmail.com
