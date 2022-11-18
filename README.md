@@ -5,11 +5,6 @@
 ### 🏗️ My current project is [Rumrunner](https://github.com/melo484b/rumrunner), using [Godot](https://godotengine.org/)
 
 ### 💻 Language exposure:
-- ☕ Java
-- 🐍 Python
-- 🇨 C++
-- 🇨 C#
-- 🌐 HTML/CSS/JavaScript
-- 🦀 Rust
+☕ Java&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python&nbsp;&nbsp;&nbsp;&nbsp;🇨 C++&nbsp;&nbsp;&nbsp;&nbsp;🇨 C#&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML/CSS/JavaScript&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust&nbsp;&nbsp;&nbsp;&nbsp;
 
 ### 📫 melodev484b@gmail.com
