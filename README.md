@@ -1,10 +1,9 @@
-# 👋 I’m Dylan
+### 👋 Dylan
 
-### 📚 I am studying software development
+### 📚 Software development student
 
-### 🏗️ I am currently game-jamming.
+### ✈️ Aerospace
 
-### 💻 Language exposure:
-☕ Java&nbsp;&nbsp;&nbsp;&nbsp;🐍 Python&nbsp;&nbsp;&nbsp;&nbsp;🇨 C++&nbsp;&nbsp;&nbsp;&nbsp;🇨 C#&nbsp;&nbsp;&nbsp;&nbsp;🌐 HTML/CSS/JavaScript&nbsp;&nbsp;&nbsp;&nbsp;🦀 Rust&nbsp;&nbsp;&nbsp;&nbsp;
+### 🎮 Game jammer
 
-### 📫 melodev484b@gmail.com
+🤖 🐍 ☕ 🇨 🌐 🦀
